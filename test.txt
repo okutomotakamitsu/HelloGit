@@ -2,3 +2,4 @@ test.txt
 
 hello git!
 Edit test!
+branch test!
